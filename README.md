@@ -1,4 +1,4 @@
-### Hi, Bula, Kia Ora!  My name is @JojorioCh (Joseph Chang) 👋
+### Bula!  My name is @JojorioCh (Joseph Chang) 👋
 
 I am a Full Stack Developer from Auckland, New Zealand, where I currently live.
 
