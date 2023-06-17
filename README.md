@@ -2,9 +2,17 @@
 
 I am a Full Stack Developer from Auckland, New Zealand, where I currently live.
 
-I have learnt my craft through Mission Ready HQ where I have developed my skills for working on frontend and backend apps.
+I have learnt my craft through Mission Ready HQ 🥰 where I have developed my skills for working on frontend and backend apps.
 
-With projects that I have worked on, the tools that were used include MySQL, MongoDB, Docker, 
+I have experience withMySQL, MongoDB, Docker, JavaScript, TypeScript, Node.js, Next.js. 
+
+I am currently learing and trying to increase my knowledge in Machine Learning heading towards a better understanding in AI 😅
+
+📫 you can reach me here on github or:
+[LinkedIn](https://www.linkedin.com/in/joseph-chang-b25977144/)
+
+
+
 
 <!--
 **JojorioCh/JojorioCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
