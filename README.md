@@ -11,7 +11,7 @@ I am currently learing and trying to increase my knowledge in Machine Learning h
 📫 Please do reach out to me:
 
 [@JojorioCh](https://github.com/JojorioCh) (right here on Github)<br>
-[LinkedIn: Joseph Chang](https://www.linkedin.com/in/joseph-chang-b25977144/)
+[LinkedIn](https://www.linkedin.com/in/joseph-chang-b25977144/)
 
 
 
