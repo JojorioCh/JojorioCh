@@ -8,10 +8,10 @@ I have experience withMySQL, MongoDB, Docker, JavaScript, TypeScript, Node.js, N
 
 I am currently learing and trying to increase my knowledge in Machine Learning heading towards a better understanding in AI 😅
 
-📫 you can reach me here on github or:
+📫 Please do reach out to me:
 
-[@JojorioCh](https://github.com/JojorioCh) right here on Github
-[LinkedIn](https://www.linkedin.com/in/joseph-chang-b25977144/)
+[@JojorioCh](https://github.com/JojorioCh) (right here on Github)<br>
+[LinkedIn: Joseph Chang](https://www.linkedin.com/in/joseph-chang-b25977144/)
 
 
 
