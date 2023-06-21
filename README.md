@@ -1,6 +1,11 @@
 ### Bula!  My name is @JojorioCh (Joseph Chang) 👋
 
-I am a Full Stack Developer from Auckland, New Zealand, where I currently live.
+
+
+
+![Jojorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JojorioCh&show_icons=true&theme=shadow_blue)
+
+I am a *New* Full Stack Developer from Auckland, NZ, where I currently live.
 
 I have learnt my craft through Mission Ready HQ 🥰 where I have developed my skills for working on frontend and backend apps.
 
@@ -12,9 +17,6 @@ I am currently learing and trying to increase my knowledge in Machine Learning h
 
 [@JojorioCh](https://github.com/JojorioCh) (right here on Github)<br>
 [LinkedIn](https://www.linkedin.com/in/joseph-chang-b25977144/)
-
-
-
 
 
 <!--
