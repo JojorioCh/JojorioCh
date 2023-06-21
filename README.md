@@ -1,6 +1,6 @@
 ### Bula!  My name is @JojorioCh (Joseph Chang) 👋
 
-
+<img src="hi-hello.gif" alt="wave">
 
 
 ![Jojorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JojorioCh&show_icons=true&theme=shadow_blue)
