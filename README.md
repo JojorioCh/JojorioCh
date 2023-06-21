@@ -1,9 +1,9 @@
-### Bula!  My name is @JojorioCh (Joseph Chang) 👋
 
 <img src="hi-hello.gif" alt="wave">
 
+### Bula!  My name is @JojorioCh (Joseph Chang) 👋
 
-![Jojorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JojorioCh&show_icons=true&theme=shadow_blue)
+![Jojorio's GitHub stats](https://github-readme-stats.vercel.app/api?username=JojorioCh&show_icons=true&theme=transparent)
 
 I am a *New* Full Stack Developer from Auckland, NZ, where I currently live.
 
