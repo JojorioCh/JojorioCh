@@ -4,7 +4,6 @@
 ### Bula!  My name is @JojorioCh (Joseph Chang) 👋
 
 ![jojorioch github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=jojorioch)
-![jojorioch github-trophies](https://stats.dooboo.io/api/github-trophies?login=jojorioch)
 
 I am a *New* Full Stack Developer from Auckland, NZ, where I currently live.
 
