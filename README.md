@@ -5,14 +5,15 @@
 
 ![jojorioch github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=jojorioch)
 
-I am a *New* Full Stack Developer from Auckland, NZ, where I currently live.
+I am a Full Stack Developer from Auckland, NZ, where I currently live.
 
 I have learnt my craft through Mission Ready HQ 🥰 where I have developed my skills for working on frontend and backend apps.
 
 I have experience with:<br><br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,github,postman,mysql,sass,gcp,mongodb,docker,nextjs,prisma,netlify)](https://skillicons.dev)
 
-I am currently learing and trying to increase my knowledge in Machine Learning heading towards a better understanding in AI 😅
+I also have my Cloud Foundational Certification with AWS and plan to further my growth in Cloud Computing to the Associate level
+I am also exploring AI to try and keep up with the ever changing environment of the Tech World 😅
 
 📫 Please do reach out to me:
 
