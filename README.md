@@ -3,8 +3,9 @@
 
 ### Bula!  My name is @JojorioCh (Joseph Chang) 👋
 
-![jojorioch github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=jojorioch)
-
+![jojorioch's Stats](https://github-readme-stats.vercel.app/api?username=jojorioch&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![jojorioch's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jojorioch&theme=vue-dark&hide_border=true)
+[jojorioch's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jojorioch&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 I am a Full Stack Developer from Auckland, NZ, where I currently live.
 
 I have learnt my craft through Mission Ready HQ 🥰 where I have developed my skills for working on frontend and backend apps.
