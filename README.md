@@ -1,15 +1,14 @@
 <div align="center">
   <img src="hi-hello.gif" alt="wave" width="400px">
 </div>
-
+<div align="center">
 ### Bula!  My name is @JojorioCh (Joseph Chang) 👋
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jojorioch&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="jojorioch's Stats" width="350px" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jojorioch&theme=vue-dark&hide_border=true" alt="jojorioch's Streak" width="350px"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojorioch&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jojorioch's Top Languages" width="350px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jojorioch&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="jojorioch's Stats" width="200px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jojorioch&theme=vue-dark&hide_border=true" alt="jojorioch's Streak" width="200px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojorioch&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jojorioch's Top Languages" width="200px"/>
 </div>
 
 <br/>
