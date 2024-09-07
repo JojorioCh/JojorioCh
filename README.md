@@ -1,11 +1,13 @@
-<img src="hi-hello.gif" alt="wave">
+<div align="center">
+  <img src="hi-hello.gif" alt="wave" width="400px">
+</div>
 
 ### Bula!  My name is @JojorioCh (Joseph Chang) 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jojorioch&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="jojorioch's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jojorioch&theme=vue-dark&hide_border=true" alt="jojorioch's Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojorioch&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jojorioch's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jojorioch&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="jojorioch's Stats" width="350px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jojorioch&theme=vue-dark&hide_border=true" alt="jojorioch's Streak" width="350px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojorioch&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jojorioch's Top Languages" width="350px" />
 </div>
 
 <br/>
@@ -25,7 +27,6 @@ I am also exploring AI to try and keep up with the ever-changing environment of 
 
 [@JojorioCh](https://github.com/JojorioCh) (right here on Github)<br>
 [LinkedIn](https://www.linkedin.com/in/joseph-chang-b25977144/)
-
 
 
 <!--
