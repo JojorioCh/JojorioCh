@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="hi-hello.gif" alt="wave" width="400px">
+  
+  ![wave](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtoMHVnNmI5enY5M3oxc2ZpMHluNmg1b3dvdHFuMzQwNmlkcXliYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)
 </div>
 <div align="center">
 <h1>Bula!  My name is @JojorioCh (Joseph Chang) 👋</h1>
@@ -11,7 +12,7 @@
 </div>
 
 <br/>
-
+<div align="center">
 I am a Full Stack Developer from Auckland, NZ, where I currently live.
 
 I have learnt my craft through Mission Ready HQ 🥰 where I have developed my skills for working on frontend and backend apps.
@@ -27,7 +28,9 @@ I am also exploring AI to try and keep up with the ever-changing environment of 
 
 [@JojorioCh](https://github.com/JojorioCh) (right here on Github)<br>
 [LinkedIn](https://www.linkedin.com/in/joseph-chang-b25977144/)
-
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojorioch&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jojorioch's Top Languages" width="300px"/>
+</div>
 
 <!--
 **JojorioCh/JojorioCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
