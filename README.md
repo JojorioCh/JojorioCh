@@ -3,7 +3,7 @@
   ![wave](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtoMHVnNmI5enY5M3oxc2ZpMHluNmg1b3dvdHFuMzQwNmlkcXliYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)
 </div>
 <div align="center">
-<h1>Bula!  My name is @JojorioCh (Joseph Chang) 👋</h1>
+<h2>Bula!  My name is @JojorioCh (Joseph Chang) 👋</h2>
 </div>
 
 <div align="center">
