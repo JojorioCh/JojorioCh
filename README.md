@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jojorioch&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="jojorioch's Stats"  />
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JojorioCh)](https://github.com/anuraghazra/github-readme-stats)]
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jojorioch&theme=vue-dark&hide_border=true" alt="jojorioch's Streak" />
 </div>
 
