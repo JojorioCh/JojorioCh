@@ -29,7 +29,7 @@ I am also exploring AI to try and keep up with the ever-changing environment of 
 [@JojorioCh](https://github.com/JojorioCh) (right here on Github)<br>
 [LinkedIn](https://www.linkedin.com/in/joseph-chang-b25977144/)
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jojorioch&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="jojorioch's Top Languages" width="300px"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojorioch)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
