@@ -1,56 +1,88 @@
 <div align="center">
 
+![wave](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtoMHVnNmI5enY5M3oxc2ZpMHluNmg1b3dvdHFuMzQwNmlkcXliYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)
+
 # Bula! I'm Joseph Chang 👋
 
-**Product & Implementation | Technical Support | Software Development**  
-Auckland, New Zealand
+### Product & Implementation • Technical Support • Software Development
+
+📍 Auckland, New Zealand
 
 </div>
 
-## About me
+## 👨‍💻 A little about me
 
-I'm a customer-focused technology professional with experience across software development, technical support, training and stakeholder engagement.
+I'm a customer-focused tech professional who enjoys working where **people and technology meet**.
 
-I enjoy working where **people and technology meet**: understanding a problem, helping users feel confident with technology, improving processes and turning ideas into practical digital solutions.
+My path into tech hasn't been the most traditional one. Before software development, I worked across travel, insurance, customer service, training and stakeholder engagement. These days I get to combine that people-focused background with building things, troubleshooting problems and helping others feel more confident with technology.
 
-My background includes hands-on development with JavaScript, TypeScript, React and Next.js, alongside Microsoft 365 and SharePoint user support, technical troubleshooting, training and customer-facing work. I also use AI-assisted development tools as part of my workflow, while reviewing, testing and understanding the code I work with.
+I enjoy understanding **why** something isn't working, breaking the problem down, and finding a practical solution without losing sight of the person using it.
 
-## Current focus
+I'm particularly interested in **product implementation, application & technical support, customer-facing technology and software development**.
 
-- **Development:** JavaScript, TypeScript, React, Next.js, Node.js, HTML & CSS
-- **Data & integrations:** REST APIs, JSON, MySQL, MongoDB
-- **Support & productivity:** Microsoft 365, Teams, SharePoint, technical troubleshooting
-- **Tools & delivery:** Git, GitHub, Vercel, Postman
-- **Cloud & AI:** AWS Certified Cloud Practitioner, AI-assisted development with tools such as Cursor
+And yes... I will probably always have another side project going somewhere. 😅
 
-## Featured work
+## 🛠️ Tech I work with
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,mysql,mongodb,git,github,postman,aws,vscode)](https://skillicons.dev)
+
+</div>
+
+**Development:** JavaScript • TypeScript • React • Next.js • Node.js • HTML • CSS  
+**Data & integrations:** REST APIs • JSON • MySQL • MongoDB  
+**Support:** Microsoft 365 • Teams • SharePoint • User support • Troubleshooting  
+**Tools & delivery:** Git • GitHub • Vercel • Postman  
+**AI-assisted development:** Cursor and other AI tools for prototyping, investigation and development, followed by manual review, testing, debugging and refactoring
+
+## 🚀 What I've been building
 
 ### 🌱 AgrInvest
-A responsive business website built with **Next.js and TypeScript**. I worked directly with the business owners to refine requirements, content and design before deployment, and also supported the setup of Google Workspace and business email.
+A responsive business website built with **Next.js and TypeScript**. I worked directly with the business owners to refine requirements, content and design before deployment, while also helping set up Google Workspace and business email.
 
-*The source repository is private while the business prepares for launch.*
+> The source repository is currently private while the business prepares for launch.
 
-### 🎮 Pasifika Fighter Prototype
-A 3D fighting game prototype built in **Godot/GDScript**. I developed gameplay systems including movement, combat, blocking, hit feedback, health and round management, using the project to practise structured debugging and iterative development.
+### 🥊 Pasifika Fighter Prototype
+A 3D fighting game prototype built with **Godot/GDScript**, inspired by Pasifika mythology. I've worked on movement, combat, blocking, hit feedback, health, round management and plenty of debugging when the fighters decided not to behave. 😅
 
-*Currently maintained as a private development repository.*
+> Currently maintained as a private development repository.
 
 ### 🔧 Web Application Refactoring & Technical Support
-Worked with an existing React application to investigate issues and refactor larger components into smaller, reusable pieces while preserving established functionality. This work also gave me experience using AI-assisted development tools for investigation and implementation, followed by manual review, testing and debugging.
+Worked with an existing React application to investigate issues and break larger components into smaller, reusable pieces while preserving established functionality. This has also given me practical experience using AI-assisted development as part of a review → test → debug → refactor workflow rather than treating generated code as a finished answer.
 
-## How I approach technology
+## 🤝 The people side of tech
 
-Before moving deeper into tech, I worked across customer service, training, stakeholder engagement, insurance and travel. That experience still shapes how I work today: **understand the person and the problem first, then find a practical solution and explain it clearly.**
+One thing I've learned from training and supporting people is that solving the technical problem is only half the job.
 
-I'm particularly interested in opportunities across product implementation, application and technical support, customer-facing technology and software development.
+I like asking questions, figuring out where someone is actually stuck and explaining things in plain language rather than throwing jargon at them. Whether I'm helping someone understand a development problem, troubleshooting access to a system or working through requirements for a website, I try to leave the person with a better understanding than when we started.
 
-## Certification
+## ☁️ Certification
 
-☁️ **AWS Certified Cloud Practitioner** — issued March 2024, valid through March 2027
+**AWS Certified Cloud Practitioner**  
+Issued March 2024 • Valid through March 2027
 
-## Let's connect
+## 🎮 When I'm not doing tech things...
 
-- [LinkedIn](https://www.linkedin.com/in/joseph-chang-b25977144/)
-- [GitHub](https://github.com/JojorioCh)
+There's a pretty good chance I'm gaming, watching anime, reading manga/web novels, experimenting with another project, or wondering why the "quick little feature" I started building has somehow become a whole new project. 😂
 
-Thanks for stopping by! 🙂
+I grew up across Europe before settling in New Zealand, so I've also picked up a love of different cultures, food and meeting people from all sorts of backgrounds along the way.
+
+## 📊 A bit of GitHub nerdiness
+
+<div align="center">
+
+[![Joseph's GitHub stats](https://github-stats-extended.vercel.app/api?username=jojorioch)](https://github.com/stats-organization/github-stats-extended)
+
+</div>
+
+## 📫 Let's connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joseph%20Chang-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-chang-b25977144/)
+[![GitHub](https://img.shields.io/badge/GitHub-JojorioCh-181717?logo=github&logoColor=white)](https://github.com/JojorioCh)
+
+**Thanks for stopping by! 👋**
+
+</div>
