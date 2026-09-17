@@ -1,47 +1,56 @@
 <div align="center">
-  
-  ![wave](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtoMHVnNmI5enY5M3oxc2ZpMHluNmg1b3dvdHFuMzQwNmlkcXliYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)
-</div>
-<div align="center">
-<h2>Bula!  My name is @JojorioCh (Joseph Chang) 👋</h2>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jojorioch&theme=vue-dark&hide_border=true" alt="jojorioch's Streak" />
+# Bula! I'm Joseph Chang 👋
+
+**Product & Implementation | Technical Support | Software Development**  
+Auckland, New Zealand
+
 </div>
 
-<br/>
-<div align="center">
-I am a Full Stack Developer from Auckland, NZ, where I currently live.
+## About me
 
-I have learnt my craft through Mission Ready HQ 🥰 where I have developed my skills for working on frontend and backend apps.
+I'm a customer-focused technology professional with experience across software development, technical support, training and stakeholder engagement.
 
-I have experience with:<br><br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,ts,github,postman,mysql,sass,gcp,mongodb,docker,nextjs,prisma,netlify)](https://skillicons.dev)
+I enjoy working where **people and technology meet**: understanding a problem, helping users feel confident with technology, improving processes and turning ideas into practical digital solutions.
 
-I also have my Cloud Foundational Certification with AWS and plan to further my growth in Cloud Computing to the Associate level.
+My background includes hands-on development with JavaScript, TypeScript, React and Next.js, alongside Microsoft 365 and SharePoint user support, technical troubleshooting, training and customer-facing work. I also use AI-assisted development tools as part of my workflow, while reviewing, testing and understanding the code I work with.
 
-I am also exploring AI to try and keep up with the ever-changing environment of the Tech World 😅
+## Current focus
 
-📫 Please do reach out to me:
+- **Development:** JavaScript, TypeScript, React, Next.js, Node.js, HTML & CSS
+- **Data & integrations:** REST APIs, JSON, MySQL, MongoDB
+- **Support & productivity:** Microsoft 365, Teams, SharePoint, technical troubleshooting
+- **Tools & delivery:** Git, GitHub, Vercel, Postman
+- **Cloud & AI:** AWS Certified Cloud Practitioner, AI-assisted development with tools such as Cursor
 
-[@JojorioCh](https://github.com/JojorioCh) (right here on Github)<br>
-[LinkedIn](https://www.linkedin.com/in/joseph-chang-b25977144/)
-<br/>
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=jojorioch)](https://github.com/stats-organization/github-stats-extended)
-</div>
+## Featured work
 
-<!--
-**JojorioCh/JojorioCh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 AgrInvest
+A responsive business website built with **Next.js and TypeScript**. I worked directly with the business owners to refine requirements, content and design before deployment, and also supported the setup of Google Workspace and business email.
 
-Here are some ideas to get you started:
+*The source repository is private while the business prepares for launch.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...j
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎮 Pasifika Fighter Prototype
+A 3D fighting game prototype built in **Godot/GDScript**. I developed gameplay systems including movement, combat, blocking, hit feedback, health and round management, using the project to practise structured debugging and iterative development.
+
+*Currently maintained as a private development repository.*
+
+### 🔧 Web Application Refactoring & Technical Support
+Worked with an existing React application to investigate issues and refactor larger components into smaller, reusable pieces while preserving established functionality. This work also gave me experience using AI-assisted development tools for investigation and implementation, followed by manual review, testing and debugging.
+
+## How I approach technology
+
+Before moving deeper into tech, I worked across customer service, training, stakeholder engagement, insurance and travel. That experience still shapes how I work today: **understand the person and the problem first, then find a practical solution and explain it clearly.**
+
+I'm particularly interested in opportunities across product implementation, application and technical support, customer-facing technology and software development.
+
+## Certification
+
+☁️ **AWS Certified Cloud Practitioner** — issued March 2024, valid through March 2027
+
+## Let's connect
+
+- [LinkedIn](https://www.linkedin.com/in/joseph-chang-b25977144/)
+- [GitHub](https://github.com/JojorioCh)
+
+Thanks for stopping by! 🙂
