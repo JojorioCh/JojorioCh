@@ -1,6 +1,6 @@
 <div align="center">
 
-![wave](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtoMHVnNmI5enY5M3oxc2ZpMHluNmg1b3dvdHFuMzQwNmlkcXliYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASd0Ukj0y3qMM/giphy.gif)
+<img src="./githubPic.jpg" alt="Joseph Chang - JoJo developer artwork" width="700" />
 
 # Bula! I'm Joseph Chang 👋
 
